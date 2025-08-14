@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Employee Table'
+define service ZSTRD_EMP_SRV {
+  expose ZV_TRD_EMP;
+}
