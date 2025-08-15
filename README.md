@@ -100,7 +100,7 @@ The project follows SAP RAP best practices with a clean separation of concerns:
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
-- SAP BTP ABAP Environment or SAP S/4HANA Cloud
+- SAP ABAP Trial 2023 (Docker) or SAP BTP ABAP Environment or SAP S/4HANA Cloud
 - ABAP Development Tools (ADT) in Eclipse
 - Appropriate authorization for development
 
