@@ -97,32 +97,6 @@ The project follows SAP RAP best practices with a clean separation of concerns:
   - Covers various SAP training types (FIORI, ABAP)
   - Manages course capacity and scheduling
 
-## 🚀 Features
-
-### Employee Management
-- ✅ **CRUD Operations**: Create, Read, Update, Delete employees
-- ✅ **Search Functionality**: Search by first name, last name
-- ✅ **Filtering**: Filter by birth date, email, gender
-- ✅ **Fiori-Ready**: UI annotations for SAP Fiori applications
-- ✅ **Data Validation**: Built-in field validation
-- ✅ **RESTful API**: OData V2 service exposure
-
-### Course Management
-- ✅ **Course Catalog**: Maintain training course information
-- ✅ **Scheduling**: Start and end date management
-- ✅ **Capacity Planning**: Track course capacity limits
-- ✅ **Status Tracking**: Monitor course completion status
-- ✅ **Course Categories**: Support for different course types
-- ✅ **RESTful API**: OData V2 service exposure
-
-### Technical Features
-- ✅ **SAP RAP Compliance**: Follows SAP RAP development guidelines
-- ✅ **ABAP Cloud Ready**: Compatible with ABAP Cloud environment
-- ✅ **CDS-Based**: Modern CDS view implementation
-- ✅ **OData V2**: Standard OData protocol support
-- ✅ **Metadata-Driven**: Rich annotations for UI generation
-- ✅ **Client-Dependent**: Multi-tenant architecture support
-
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
