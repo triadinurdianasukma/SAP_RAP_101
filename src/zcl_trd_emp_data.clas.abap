@@ -19,24 +19,28 @@ CLASS zcl_trd_emp_data IMPLEMENTATION.
                         first_name = 'John'
                         last_name = 'Doe'
                         email = 'johndoe@gmail.com'
+                        birth_date = '19850515'
                         gender = 'M'
                         )
                         ( emp_id = 0002
                         first_name = 'Rita'
                         last_name = 'Smith'
                         email = 'rsmith@gmail.com'
+                        birth_date = '19900220'
                         gender = 'F'
                         )
                         ( emp_id = 0003
                         first_name = 'Sam'
                         last_name = 'Brown'
                         email = 'smrown@gmail.com'
+                        birth_date = '19951230'
                         gender = 'M'
                         )
                         ( emp_id = 0004
                         first_name = 'Lisa'
                         last_name = 'White'
                         email = 'lwhite@gmail.com'
+                        birth_date = '19880305'
                         gender = 'F'
                         )
                      ).

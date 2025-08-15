@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Course Table'
+define service ZSTRD_CRS_SRV {
+  expose ZV_TRD_COURSE;
+}
